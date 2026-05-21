@@ -2,7 +2,7 @@
 
 ⚠️ **Copyright Notice**
 
-Copyright © 2026 MCIPhil ，Human-Intelligence-CN. All rights reserved.
+Copyright © 2026 MCIPhil & Human-Intelligence-CN. All rights reserved.
 
 This project and all associated files are strictly private.  
 Unauthorized use, copying, modification, distribution, or derivation of this project is prohibited.
